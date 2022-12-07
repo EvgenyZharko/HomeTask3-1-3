@@ -29,7 +29,4 @@ public class MainController {
         return "products_page";
     }
 
-
-    ХУЙ ПИЗДА ДЖИГУРДА
-
 }
